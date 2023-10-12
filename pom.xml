@@ -25,7 +25,7 @@
    </executions>
    <configuration>
       <serverId>nexus</serverId>
-      <nexusUrl>http://16.16.67.193:8081/nexus/</nexusUrl>
+      <nexusUrl>http://13.51.193.85:8081/nexus/</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
